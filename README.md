@@ -5,6 +5,6 @@
 
 ### This solution to the Eight Queens puzzle uses the hill-climbing algorithm with random restarts - meaning when a better heuristic cannot be calculated the queens are repositioned in random places and the algorithm restarts.
 
-
+## GUI
 <img src="eightQueens.gif" width="500" height="500">
 
